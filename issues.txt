@@ -1,0 +1,30 @@
+CPU Utiliza	Hi, I migrated to spring boot 2
+Add cache a	This commits adds an actuator e
+Review excl	While working on #12210 I notic
+Spring Boot	Overwriting Jackson configurati
+Set classlo	Related to and fixes:  #12088 S
+Add HTTP/2 	For completeness we should add 
+Persistent 	Use a single `AdminClient` in `
+Investigate	See https://github.com/spring-p
+Cannot prov	Consider the following addition
+Executable 	Reproduced with: 2.0.0RC1Steps 
+Use HikariC	See https://github.com/brettwoo
+added depen	<!--Thanks for contributing to 
+Support Cac	This similar to #2956 with the 
+Yaml negate	See this comment https://github
+Consider re	Currently, the auto-configurati
+TomcatStart	The tomcat starter is not loggi
+Consider re	<!--Thanks for raising a Spring
+TestRestTem	https://docs.spring.io/spring-b
+Evaluate or	Listed classes/names are evalua
+Add autocon	As suggested in #12090, auto-co
+Setting hos	Fixes gh-12031
+Provide fin	In light of the efforts of #839
+Need compat	Gradle 4 introduces a completel
+Auto-config	We have metrics support for Tom
+Wrong Class	Simple Scenario: Spring Boot 2.
+Use Jersey 	As a part of support for Jersey
+Automate JA	Currently JAX-RS resources have
+Better syst	I recently extracted a module f
+Suppress de	cherry-pick cafe6db to 1.5.x br
+Document ho	It is documented how to use 2 p
